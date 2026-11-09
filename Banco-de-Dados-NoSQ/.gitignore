@@ -1,0 +1,10 @@
+# Variáveis de ambiente
+.env
+
+# Ficheiros do Astra DB
+secure-connect-iot-data.zip
+
+# Ambientes virtuais
+.venv/
+venv/
+__pycache__/
